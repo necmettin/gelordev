@@ -1,0 +1,2 @@
+# GelOrDev - Geliştirme Ortamı
+
